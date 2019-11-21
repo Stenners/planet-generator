@@ -1,0 +1,17 @@
+{
+  "name": "planet-gen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.3"
+  },
+  "dependencies": {
+    "konva": "^4.0.14",
+    "rune.js": "^1.1.7",
+    "seedrandom": "^3.0.5"
+  }
+}
